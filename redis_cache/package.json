@@ -1,0 +1,18 @@
+{
+  "name": "redis",
+  "version": "1.0.0",
+  "description": "redis_node_app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "prashu"
+  ],
+  "author": "prashu",
+  "license": "ISC"
+}

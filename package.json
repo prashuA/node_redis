@@ -1,0 +1,21 @@
+{
+  "name": "node_app",
+  "version": "1.0.0",
+  "description": "Node application for index.html",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "prashu"
+  ],
+  "author": "prashu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "redis": "^3.0.2",
+    "response-time": "^2.3.2",
+    "save": "^2.4.0"
+  }
+}
